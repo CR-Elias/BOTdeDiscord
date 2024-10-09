@@ -1,1 +1,15 @@
-{ "name": "bot-de-dc", "version": "1.0.0", "main": "Index.js" , "scripts": { "test": "echo \"Error: no se ha especificado ninguna prueba\" && salida 1" }, "keywords": [], "author": "", "license": "ISC", " descripción": "", "dependencias": { "discord.js": "^14.16.3" } }
+{
+  "name": "bot-de-dc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
