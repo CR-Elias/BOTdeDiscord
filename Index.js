@@ -47,4 +47,5 @@ client.on(Events.MessageCreate, async(message) => {
 });
 
 // conectar como cliente a nuestra aplicacion de discord
-//client.login("")
+const token = process.env.DISCORD_TOKEN;
+client.login(token);
