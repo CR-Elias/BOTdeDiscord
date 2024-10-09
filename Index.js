@@ -47,4 +47,4 @@ client.on(Events.MessageCreate, async(message) => {
 });
 
 // conectar como cliente a nuestra aplicacion de discord
-client.login("")
+//client.login("")
