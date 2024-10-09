@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Elias", 
   "license": "ISC",
-  "description": "Un bot de Discord básico.",  // Cambia la descripción según lo que haga tu bot.
+  "description": "Un bot de Discord básico.",
   "dependencies": {
     "discord.js": "^14.16.3"
   }
