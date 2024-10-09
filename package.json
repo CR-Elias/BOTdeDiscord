@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "main": "Index.js",
   "scripts": {
+    "start": "node Index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Elias", 
   "license": "ISC",
-  "description": "",
+  "description": "Un bot de Discord básico.",  // Cambia la descripción según lo que haga tu bot.
   "dependencies": {
     "discord.js": "^14.16.3"
   }
